@@ -1,0 +1,1 @@
+.next_button,.prev_button{color:#ff9b21;font-size:46px;position:absolute;top:40%;z-index:10;cursor:pointer;background-color:rgba(29,14,17,0.5);padding:0 25px;-webkit-border-radius:50%;border-radius:50%}.next_button{right:20px}.prev_button{left:20px}.slide-item{position:relative}.slide-container{margin-top:15px;-webkit-border-top-left-radius:10px;border-top-left-radius:10px}
